@@ -1,0 +1,7 @@
+C:\Users\RutraThavamaniSelvi\source\repos\SOLID Principles\SOLID Principles\bin\Debug\SOLID Principles.exe.config
+C:\Users\RutraThavamaniSelvi\source\repos\SOLID Principles\SOLID Principles\bin\Debug\SOLID Principles.exe
+C:\Users\RutraThavamaniSelvi\source\repos\SOLID Principles\SOLID Principles\bin\Debug\SOLID Principles.pdb
+C:\Users\RutraThavamaniSelvi\source\repos\SOLID Principles\SOLID Principles\obj\Debug\SOLID Principles.csproj.AssemblyReference.cache
+C:\Users\RutraThavamaniSelvi\source\repos\SOLID Principles\SOLID Principles\obj\Debug\SOLID Principles.csproj.CoreCompileInputs.cache
+C:\Users\RutraThavamaniSelvi\source\repos\SOLID Principles\SOLID Principles\obj\Debug\SOLID Principles.exe
+C:\Users\RutraThavamaniSelvi\source\repos\SOLID Principles\SOLID Principles\obj\Debug\SOLID Principles.pdb
