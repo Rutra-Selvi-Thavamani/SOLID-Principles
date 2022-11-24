@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SOLID_Principles.LSP;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,8 @@ namespace SOLID_Principles
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            // Animal animal = new Animal();
+            Console.WriteLine("world");
         }
     }
 }
